@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">meusimulador</string>
+    <string name="txt_simulate">Botão de simulação de partidas</string>
+    <string name="cd_home_team_image">Imagem do Time da casa</string>
+    <string name="cd_away_team_image">Imagem dos Time visitante</string>
+    <string name="cd_home_team">Home Team</string>
+    <string name="txt_Score">99</string>
+    <string name="txt_Versus">X</string>
+    <string name="txt_ScoreTeam">99</string>
+
+</resources>
